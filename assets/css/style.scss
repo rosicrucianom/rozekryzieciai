@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #000;
+  background-image: url("../img/stars_galaxies_1920.jpg");
+  background-repeat: repeat;
+
+  color:#eeeeee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#cccc00;
+}
+
+a {
+  color:#ffa500;
+}
+
+a:hover, a:focus {
+  color:#ffd500;
+  font-weight:normal;
+  text-decoration:underline; 
+}
+
+strong {
+  color:#eeeeee;
+}
