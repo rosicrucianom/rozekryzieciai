@@ -1,2 +1,1 @@
-Rožekryžiečių Om Ordinas  
-Įkurtas Gerb. Mok. Om Yeo Wams Om
+[Rosicrucian Om Order](https://www.rosicrucianomorder.org/)
