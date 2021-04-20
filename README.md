@@ -1,4 +1,4 @@
-# Ko mes mokinamės?
+# Mokymai
 
 ***Rožekryžiečių Om Ordinas***, įkurtas Gerb. Mok. **Om Yeo Wams Om** pagal Gerb. Logos **Melkisedeko** Tvarką, mokina:
 
