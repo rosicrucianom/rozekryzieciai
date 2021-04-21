@@ -1,6 +1,6 @@
 # Mokymai
 
-***Rožekryžiečių Om Ordinas***, įkurtas Gerb. Mok. **Om Yeo Wams Om** pagal Gerb. Logos **Melkisedeko** Tvarką, mokina:
+***Rožekryžiečių Om Ordinas***, įkurtas Gerb. Mok. **Om Yeowams Om** pagal Gerb. Logos **Melkisedeko** Tvarką, mokina:
 
 - Kaip **Pažadinti** savo **Dieviškąją Dalelytę - Budhatą - Sąžinę - Sąmonę**? 🌹
 - Kas yra **Alchemija**? Kodėl nenusakomai svarbu turėti **Seksualinės (Gyvybinės) Energijos**? 🔥 Ir kaip praktiškai **Transmutuoti šią Galingiausią Energiją Visatoje**?
